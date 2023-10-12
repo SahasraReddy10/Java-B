@@ -8,6 +8,8 @@ public class FirstProgram {
         System.out.println("Sahasra");
         System.out.println("Harika");
         System.out.println("Sash");
+        System.out.println("Massh");
+        System.out.println("sheesh");
 
         }
 }
